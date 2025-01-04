@@ -1,0 +1,36 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-image: url(olimpo-baner.jpg);
+    /*background: grey;*/
+}
+
+.logo {
+    text-align: center;
+}
+
+.zeus_moeda_logo {
+    width: 200px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.container-menu {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 100px;
+    
+}
+
+li {
+    font-size: 23px;
+    margin: 10px 15px;
+}
