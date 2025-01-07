@@ -2,7 +2,7 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-image: url(olimpo-baner.jpg);
+    background-color: grey;
     /*background: grey;*/
 }
 
